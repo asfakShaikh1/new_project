@@ -31,7 +31,6 @@ public class Account {
 	}
 	public void setBalance(int balance) {
 		this.balance = balance;
-		System.out.println("System.out.println");
 	}
 	
 }
